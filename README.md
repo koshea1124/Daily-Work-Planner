@@ -1,6 +1,6 @@
 # Daily-Work-Planner
 
-## Descritpion 
+##  Descritpion 
 The EventCalendar app is a simple calendar application that enables users to save events for each hour of the day. This browser-based app leverages dynamic updates to HTML and CSS, powered by jQuery. It provides an intuitive and user-friendly interface for managing and organizing daily events.
 
 Key Features:
@@ -16,3 +16,15 @@ Technologies Used:
 2. CSS: Defines the styles and visual presentation of the app.
 3. JavaScript (jQuery): Enables dynamic updates to the HTML and CSS, handling user interactions, event storage, and time management.
 4. Date and Time Library (e.g., Day.js): Assists in working with dates, times, and related functionality within the app.
+
+## Table of Contents
+[Overview] (#Overview)
+[Usage] (#Usage)
+[Screenshot] (#Screenshot)
+[Credits] (#Credits)
+
+##  Overview
+##  Usage
+##  Screenshot
+##  Credits
+
