@@ -18,13 +18,43 @@ Technologies Used:
 4. Date and Time Library (e.g., Day.js): Assists in working with dates, times, and related functionality within the app.
 
 ## Table of Contents
-[Overview] (#Overview)
-[Usage] (#Usage)
-[Screenshot] (#Screenshot)
-[Credits] (#Credits)
+- [Overview](#overview)
+- [Usage](#usage)
+- [Screenshot](#screenshot)
+- [Credits](#credits)
 
 ##  Overview
+
+### The Challenge
+Create a simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+### User Story
+AS AN employee with a busy schedule
+I WANT to add important events to a daily planner
+SO THAT I can manage my time effectively
+### Acceptance Criteria
+GIVEN I am using a daily planner to create a schedule
+WHEN I open the planner
+THEN the current day is displayed at the top of the calendar
+WHEN I scroll down
+THEN I am presented with timeblocks for standard business hours
+WHEN I view the timeblocks for that day
+THEN each timeblock is color coded to indicate whether it is in the past, present, or future
+WHEN I click into a timeblock
+THEN I can enter an event
+WHEN I click the save button for that timeblock
+THEN the text for that event is saved in local storage
+WHEN I refresh the page
+THEN the saved events persist
+
 ##  Usage
+1. At the start of your day, open the document stored on your local device. This document will serve as your planner for the day.
+2. Scroll down to view the timeblocks dedicated to the current day.
+3. To edit the events within a specific timeblock, simply click on the corresponding timeblock.
+4. After making the necessary changes, click the save button located on the right side of the screen to save the event.
+5. To ensure that your modifications are reflected, refresh the page.
+6. Please note that any events not saved within the timeblocks before refreshing the page will not be tracked locally.
+
+Link to URL: 
 ##  Screenshot
 ##  Credits
 
