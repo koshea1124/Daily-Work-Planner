@@ -61,6 +61,6 @@ Link to URL: https://koshea1124.github.io/Daily-Work-Planner/
 
 ##  Credits
 [Day.JS Docs](https://day.js.org/docs/en/display/format)
-[JQUERY Docs] (https://api.jquery.com/)
-[Code Academy] (https://www.codecademy.com/catalog)
+[JQUERY Docs](https://api.jquery.com/)
+[Code Academy](https://www.codecademy.com/catalog)
 
